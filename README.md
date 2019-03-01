@@ -1,4 +1,4 @@
-# ITS2Plants_dataset
+# ITS2PLANTS
 The ITS2 reference dataset for subkingdom Viridiplantae
 
 ## How to cite
