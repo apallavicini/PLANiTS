@@ -3,10 +3,11 @@ The ITS2 reference dataset for subkingdom Viridiplantae
 
 ## How to cite
 If you find these methods/scripts useful and use them in a publication, please cite:
+........................................
 
-
-## Overview
-This reference dataset is named ITS2PLANTS, it includes 293,453 sequences comprising 133 plant orders and 564 families within the subkingdom Viridiplantae. Families included in the dataset and total families reported in NCBI are available in the file:"table_families.pdf"
+## Description
+This reference dataset is named ITS2PLANTS, it includes 293,453 ITS2 sequences comprising 133 orders and 564 plant families within the subkingdom Viridiplantae downloaded on 21th November 2018.
+Families included in the dataset and total families reported in NCBI are available in:"table_families.pdf"
 
 
 
