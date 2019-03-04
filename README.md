@@ -11,10 +11,11 @@ The dataset underwent manual identity checks and taxonomic assignment in order t
 
 
 ## Repository content
-"table_families.pdf" contains Families and orders included in the dataset and total families reported in NCBI.
 
 "DATASET_Viridiplantae.tar.gz" contains the complete dataset (named TOTAL) and its de-replicated versions (99%, 97%, 95% and 90% identity) in .fasta format, each sequence is provided with taxonomy within the header. Sequences are identified by GeneBank accession number.  
 
 "SEQ_Viridiplantae.tar.gz" and "TAXONOMY_Viridiplantae.tar.gz" archives contain the same datasets using QIIME2 format which requires sequences and taxonomy in two separate files. 
+
+"table_families.pdf" contains Families and orders included in the dataset and total families reported in NCBI.
 
 
