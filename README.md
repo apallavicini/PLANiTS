@@ -18,4 +18,4 @@ The dataset underwent manual identity checks and taxonomic assignment in order t
 
 "table_families.pdf" contains Families and orders included in the dataset and total families reported in NCBI.
 
-
+"ITSx-databases.zip" contains the three databases in QIIME format.
