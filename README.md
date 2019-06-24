@@ -1,5 +1,5 @@
 # PLANiTS
-The ITS2 reference dataset for subkingdom Viridiplantae
+The ITS, ITS1 and ITS2 reference dataset for subkingdom Viridiplantae
 
 ## How to cite
 If you find this reference dataset useful and you are going to use it in a publication, please cite:
