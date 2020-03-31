@@ -7,4 +7,4 @@ Banchi, E.; Ametrano, C.G.; Greco, S.; Stanković, D.; Muggia, L.; Pallavicini, 
 
 ## Repository content
 
-"ITSx-databases.zip" contains the three databases in QIIME format.
+"PLANiTS_29-03-2020.zip" contains the three databases in QIIME format and SINTAX format.
