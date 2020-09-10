@@ -8,3 +8,5 @@ Banchi, E.; Ametrano, C.G.; Greco, S.; Stanković, D.; Muggia, L.; Pallavicini, 
 ## Repository content
 
 "PLANiTS_29-03-2020.zip" contains the three databases in QIIME format and SINTAX format.
+
+"qiime_classifiers" contains ITS, ITS1 and ITS2 classifiers in qza format for qiime taxonomic analyses
